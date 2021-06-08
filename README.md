@@ -13,12 +13,17 @@ We do many giveaways and make your project.
 - add your channelID in `config.json`
 - add your bot name in `config.json`
 - add your token in secret like this 
+
 ![image](https://user-images.githubusercontent.com/74746579/121193103-46480100-c88d-11eb-9e9f-db68dbb5f33a.png)
 
 
 Thank you and have a nice day/afternoon/night
 
+## Run in repl.it
+- [Click Here]()
+
 ## Info
+
 
 Author: Romeo#0700
 
