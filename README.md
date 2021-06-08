@@ -6,7 +6,7 @@ Simple Discord dashboard of different pages
 ## Join My server 
 You can find many codes and also you get full support for coding
 We do many giveaways and make your project.
-[The Capital Club](https://discord.gg/gU7XAxTpX5)
+- [The Capital Club](https://discord.gg/gU7XAxTpX5)
 
 # Modification
 - add your channelID in `config.json`
