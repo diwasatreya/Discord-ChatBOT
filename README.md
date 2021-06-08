@@ -1,6 +1,6 @@
 # Discord-AI Chatbot
-Simple Discord dashboard of different pages
-If you need `setchat <channel>` then make sure to join my server and suggest me
+Simple Discord dashboard of different pages.
+- If you need `setchat <channel>` then make sure to join my server and suggest me
 ## Demo
 ![image](https://user-images.githubusercontent.com/74746579/121192690-e6e9f100-c88c-11eb-96f2-806958010453.png)
 
